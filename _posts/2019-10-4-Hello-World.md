@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World!
-tags: First Try
+tags: First-Try
 stickie: true
 ---
 
