@@ -6,4 +6,4 @@ tagline: Biu~
 
 <div style="text-align:center">空空如也……</div>
 
-[返回主页]({{ site.url }})
+[返回主页](shttps://azureadolescence.github.io/)
