@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Billboard
+title: 布告板
 tagline: Biu~
 ---
 
