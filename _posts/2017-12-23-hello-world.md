@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Hello World!
-tags: Hydrogen
+tags: First Try
 stickie: true
 ---
 
-Welcome to Hydrogen!<br>If you saw this post, your blog has been successfully deployed.So enjoy the fun of writing now!
+Welcome to my blog!<br>This is my first bolg. And it may not perfect.<br>But this is the first step to success!
 
-> Hello Hydrogen!
+> First Success!
