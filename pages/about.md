@@ -10,7 +10,7 @@ permalink: /about.html
 
 你可以通过以下方式联系作者
 
-QQ: 2050176808
+QQ: 3511131870
 
 Email: <a ref="mailto:MansonZhou@outlook.com">chao.que.sama@gamail.com</a>
 
