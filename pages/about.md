@@ -12,6 +12,6 @@ permalink: /about.html
 
 QQ: 2050176808
 
-Email: <a ref="mailto:MansonZhou@outlook.com">MansonZhou@outlook.com</a>
+Email: <a ref="mailto:MansonZhou@outlook.com">chao.que.sama@gamail.com</a>
 
-Github: [AzureAdolescence](https://github.com/AzureAdolescence)
+Github: [chaoque](https://github.com/AzureAdolescence)
