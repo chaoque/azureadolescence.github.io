@@ -4,6 +4,6 @@ title: Billboard
 tagline: Biu~
 ---
 
-<div style="text-align:center">:Nothing...</div>
+<div style="text-align:center">Nothing...</div>
 
 [返回主页]({{ site.url }})
